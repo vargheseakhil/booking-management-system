@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="195" height="30" viewBox="0 0 195 30">
+  <g id="Group_1205" data-name="Group 1205" transform="translate(-161 -274)">
+    <rect id="Rectangle_67" data-name="Rectangle 67" width="80.75" height="6" transform="translate(173.5 279.523)" fill="#ddd"/>
+    <rect id="Rectangle_68" data-name="Rectangle 68" width="80.75" height="6" transform="translate(254.25 279.523)" fill="#ddd"/>
+    <g id="Group_7" data-name="Group 7" transform="translate(580 -337)">
+      <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(-334 612)" fill="#ddd" stroke="#fff" stroke-width="1">
+        <circle cx="8" cy="8" r="8" stroke="none"/>
+        <circle cx="8" cy="8" r="8.5" fill="none"/>
+      </g>
+      <text id="_2" data-name="2" transform="translate(-329 623)" fill="#fff" font-size="10" font-family="Roboto-Black, Roboto" font-weight="800" letter-spacing="0.01em"><tspan x="0" y="0">2</tspan></text>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(601 -337)">
+      <g id="Ellipse_1-2" data-name="Ellipse 1" transform="translate(-274 612)" fill="#ddd" stroke="#fff" stroke-width="1">
+        <circle cx="8" cy="8" r="8" stroke="none"/>
+        <circle cx="8" cy="8" r="8.5" fill="none"/>
+      </g>
+      <text id="_3" data-name="3" transform="translate(-269 623)" fill="#fff" font-size="10" font-family="Roboto-Black, Roboto" font-weight="800" letter-spacing="0.01em"><tspan x="0" y="0">3</tspan></text>
+    </g>
+    <text id="Request" transform="translate(180 301)" fill="#888" font-size="10" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.01em"><tspan x="-18.779" y="0">Request</tspan></text>
+    <text id="Service" transform="translate(254 301)" fill="#888" font-size="10" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.01em"><tspan x="-17.107" y="0">Service</tspan></text>
+    <text id="Payment" transform="translate(335 301)" fill="#888" font-size="10" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.01em"><tspan x="-20.21" y="0">Payment</tspan></text>
+    <g id="Group_6" data-name="Group 6" transform="translate(566 -337)">
+      <g id="Ellipse_1-3" data-name="Ellipse 1" transform="translate(-394 612)" fill="#ddd" stroke="#fff" stroke-width="1">
+        <circle cx="8" cy="8" r="8" stroke="none"/>
+        <circle cx="8" cy="8" r="8.5" fill="none"/>
+      </g>
+      <text id="_1" data-name="1" transform="translate(-388.5 623)" fill="#fff" font-size="10" font-family="Roboto-Black, Roboto" font-weight="800" letter-spacing="0.01em"><tspan x="0" y="0">1</tspan></text>
+    </g>
+  </g>
+</svg>

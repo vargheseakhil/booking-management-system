@@ -1,0 +1,81 @@
+.booking-card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    font-size: 14px;
+    margin: 10px 0;
+}
+  
+.booking-card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+  
+.booking-card__container {
+    padding: 10px 5px;
+}
+
+.booking-card__container > div {
+    margin-bottom: 15px;
+}
+
+.booking-card__customer__card {
+     margin: 5px 0 0 10px;
+}
+.booking-card__deals__details{
+    display: flex;
+    width: 50%;
+}
+.booking-card__deals__details label {
+    margin-top: 5px;
+}
+.booking-card__schedule_label {
+    font-size: 12px;
+    text-align: left;
+}
+.booking-card__schedule__details_from {
+    margin-left: 10px;
+    min-width: 250px;
+}
+.booking-card__schedule__details_to {
+    margin-left: 22px;
+    min-width: 250px;
+}
+.booking-card__location {
+    display:flex;
+    justify-content: flex-start;
+}
+.booking-card__location label {
+    margin-left: 10px;
+}
+.booking-card__price {
+    display: flex;
+}
+.booking-card__price_session {
+    margin: 0px 22px;
+}
+.booking-card__container button.primary {
+    padding: 5px;
+    border: 1px solid #008AB8;
+    background-color: inherit;
+    border-radius: 4px;
+    color: #008AB8;
+    font-weight: bold;
+}
+.booking-card__container button.secondary {
+    padding: 5px;
+    border: 1px solid #008AB8;
+    background-color: #008AB8;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+}
+
+.booking-card__button__container {
+    margin: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.booking-card__button__container__more {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

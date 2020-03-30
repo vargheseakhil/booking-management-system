@@ -1,0 +1,15 @@
+.add-banner {
+    display: flex;
+    margin: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  }
+.add-banner__details {
+    display: flex;
+    flex-direction: column;
+    padding:10px;
+    text-align: left;
+    line-height: 1.6;
+}
+.elipse-container img {
+    margin-left: 10px;
+}

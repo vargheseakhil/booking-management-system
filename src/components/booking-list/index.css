@@ -1,0 +1,7 @@
+.booking-list-ul {
+    list-style: none;
+    margin-block-start: 0;
+    margin-inline-start: 0;
+    padding-inline-start: 0;
+    margin: 10px;
+}
