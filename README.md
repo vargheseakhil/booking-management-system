@@ -5,3 +5,6 @@ This is a booking management module based on Services.
 * Show "No more booking" when listing complete.
 * Progress should be progress based status(PENDING, ACTIVE, and PAYMENT)
 * Target is mobile screen only
+
+run `npm install` to download the node modules 
+then run `npm start` to run the project. Inspect the browser and use iphone X for better view.
